@@ -1,0 +1,122 @@
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: #1f2937;
+  background-color: #f3f4f6;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+a {
+  font-weight: 500;
+  color: #4f46e5;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #3730a3;
+}
+
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  min-width: 320px;
+  background: #f3f4f6;
+}
+
+h1 {
+  font-size: 3rem;
+  line-height: 1.2;
+  color: #111827;
+  font-weight: 700;
+  text-align: center;
+}
+
+
+button {
+  border-radius: 10px;
+  border: none;
+  padding: 0.7em 1.3em;
+  font-size: 1rem;
+  font-weight: 600;
+  font-family: inherit;
+  background: linear-gradient(135deg, #4f46e5, #6366f1);
+  color: white;
+  cursor: pointer;
+  transition: all 0.25s ease;
+  box-shadow: 0 4px 12px rgba(79, 70, 229, 0.25);
+}
+
+button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 18px rgba(79, 70, 229, 0.35);
+}
+
+button:focus,
+button:focus-visible {
+  outline: 3px solid rgba(99, 102, 241, 0.4);
+}
+
+/* ===== IMAGE BACKGROUND ===== */
+.bg {
+  background-image: url("./image/bg.jpg");
+  height: 100vh;
+  width: 100vw;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+.foodimg {
+  width: 250px;
+  height: auto;
+  border-radius: 12px;
+  object-fit: cover;
+}
+
+
+.card {
+  width: 260px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 15px 35px rgba(0, 0, 0, 0.15);
+}
+
+/* ===== GRID LAYOUT ===== */
+.home-row {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 20px;
+}
+
+/* ===== GLOBAL RESET CLEANUP ===== */
+html, body {
+  margin: 0;
+  padding: 0;
+}

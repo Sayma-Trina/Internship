@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\CourierApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\repositories\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\helper\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\helper\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\helper\\responsefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\migrations\\20260410042158_createorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\migrations\\20260410042158_createorderstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\courierapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\courierapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|c:\\users\\asus\\desktop\\courierapp\\courierapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09D082B0-FFC4-4454-B3B4-C6C4A019464A}|CourierApp\\CourierApp.csproj|solutionrelative:courierapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "CourierApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:57:57.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Repositories\\IOrderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\IOrderRepository.cs",
+              "RelativeToolTip": "CourierApp\\Repositories\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:10:51.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Repositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "CourierApp\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:29:00.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Repositories\\OrderRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "CourierApp\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAASwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:11:52.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CourierApp\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADgvwsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T03:08:26.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Services\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Services\\AuthService.cs",
+              "RelativeToolTip": "CourierApp\\Services\\AuthService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAABMAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:35:48.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CourierApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\appsettings.json",
+              "RelativeToolTip": "CourierApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-03T10:04:55.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Program.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Program.cs",
+              "RelativeToolTip": "CourierApp\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T10:02:26.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CourierApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:34:47.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "CourierApp\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T09:28:24.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Models\\User.cs",
+              "RelativeToolTip": "CourierApp\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T02:36:37.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "CourierApp\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA3wBMAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:54:35.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Helper\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Helper\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Helper\\ApiResponse.cs",
+              "RelativeToolTip": "CourierApp\\Helper\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T05:03:20.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ResponseFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Helper\\ResponseFactory.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Helper\\ResponseFactory.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Helper\\ResponseFactory.cs",
+              "RelativeToolTip": "CourierApp\\Helper\\ResponseFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T08:06:27.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260410042158_CreateOrdersTable.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Migrations\\20260410042158_CreateOrdersTable.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Migrations\\20260410042158_CreateOrdersTable.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Migrations\\20260410042158_CreateOrdersTable.cs",
+              "RelativeToolTip": "CourierApp\\Migrations\\20260410042158_CreateOrdersTable.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T04:21:59.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "CourierApp\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Models\\Order.cs",
+              "RelativeToolTip": "CourierApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-10T03:52:23.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CourierApp.csproj",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\CourierApp.csproj",
+              "RelativeDocumentMoniker": "CourierApp\\CourierApp.csproj",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\CourierApp.csproj",
+              "RelativeToolTip": "CourierApp\\CourierApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T02:35:05.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CourierApp\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\CourierApp\\CourierApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CourierApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T06:51:01.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
